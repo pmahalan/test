@@ -1,41 +1,23 @@
 # asdf
-
-## Description
-
-asdf
-
+----
+<a href="https://img.shields.io/badge/License-MIT-brightgreen"><img src="https://img.shields.io/badge/License-MIT-brightgreen"></a>
 ## Table of Contents
-
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [License](#license)
-4. [Contributing](#contributing)
-5. [Tests](#tests)
-6. [Questions](#questions)
-
-## <a name="installation"></a>Installation
-
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Test Instructions](#test-instructions)
+- [Contact Information](#contact-information)
+### Description
 asdf
-
-## <a name="usage"></a>Usage
-
+### Installation
 asdf
-
-## <a name="license"></a>License
-
-MIT License: Users can use, copy, modify, merge, publish, and distribute this programming as long as they include this license within their project.
-
-## <a name="contributing"></a>Contributing
-
+### Usage
 asdf
-
-## <a name="tests"></a>Tests
-
+### Contribution
 asdf
-
-## <a name="questions"></a>Questions
-
-For any questions you can reach out via github or email at the following:
-
-- Github: https://github.com/pmahalan
-- Email: asdf@aol.com
+### Test-Instructions
+asdf
+### Contact-Information
+[Github Profile](https://github.com/pmahalan)
+asdf@aol.com
