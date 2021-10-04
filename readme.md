@@ -1,26 +1,36 @@
 # asdf
-  
-  [!Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-  
-  ## Description 
-  asdf
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  
-  ## Installation 
-  asdf
-  ## Usage 
-  asdf
-  ## License 
-  This project is license under MIT
-  ## Contributing 
-  asdf
-  ## Tests
-  asdf
-  ## Questions
-  If you have any questions about this projects, please contact me directly at asdf@aol.com. You can view more of my projects at https://github.com/pmahalan.
+## Description
+asdf
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+---
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
+- [Tests](#tests)
+- [Questions](#questions)
+---
+## Installation
+asdf
+---
+## Usage
+asdf
+---
+## Credits
+asdf
+---
+## License
+This project is protected by [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+---
+## Features
+asdf
+---
+## Tests
+asdf
+---
+## Questions
+(https://github.com/pmahalan)
+If you have any additional questions, please contact me at asdf@aol.com
+
