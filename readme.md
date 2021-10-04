@@ -1,55 +1,24 @@
-#asdf                      [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## booger
 
-    ## Table of Contents 
-
-* [Description](##Description)
-
-* [Installation](##Installation)
-
-* [Usage](##Usage Information)
-
-* [Credits](##Credits)
-
-* [Contribute](##Contribute)
-
-* [Tests](##Tests)
-
-* [Contact](##Contact)
-
-* [License](##License)
-
-    ## Description
-    asdf
-    
-    ## Installation
-    asdf
-    
-    ## Usage Information
-    asdf
-
-    ## Credits
-    asdf
-    
-    ## Contribute
-    asdf
-    
-    ## Tests
-    adsf
-
-    ## Contact
-    For further questions regarding this project, you can find my github at https://github.com/pmahalan/ 
-    or email directly at asdf@aol.com
-
-    ## License
-     Copyright 22/33/2323  priya mahalanobis
-
-            Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the 
-            Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
-             and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-            
-            The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-            
-            THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
-            MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
-            ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
-            THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+## Description
+asdf
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
+## Installation
+asdf
+## Usage
+asdf
+## License
+The MIT License
+## Credits
+asd
+## Tests
+fasd
+## Questions
+Github: pmahalan
+Email: asdf@aol.com
