@@ -1,27 +1,35 @@
-# asdf #
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT);
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Description ##
+#Title:
 asdf
 
-## Table of Contents ##
+##Description:
+asdf
+asdf
 asd
+fasdf
 
-## Installation ##
+##Table of Contents:
+[Installation](#installation)
+[Usage](#usage)
+[Credits](#credits)
+[License](#license)
+
+##Installation:
 asdf
 
-## Usage ##
+##Usage:
 asdf
 
-## License ##
-MIT
-
-## Contribute ##
+##Credits:
 asdf
 
-## Tests ##
-asd
+##License:
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Questions ##
-Any questions? Find me on Github! Shoot me an email!
-pmahalan asdf@aol.com
+##Badges:
+![alt text](https://img.shields.io/badge/Script-JS-brightgreen)
+
+##Questions:
+https://github.com/pmahalan/node_readme
+asdf@aol.com
