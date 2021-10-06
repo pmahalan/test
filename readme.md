@@ -1,35 +1,45 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# Title:
+# asdf
+
+### Description
 asdf
 
-## Description:
-asdf
-asdf
-asd
-fasdf
 
-## Table of Contents:
-[Installation](#installation)
-[Usage](#usage)
-[Credits](#credits)
-[License](#license)
+## Table of contents
+* [Description](#description)
+* [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contributing)
+* [Testing(#testing) 
 
-## Installation:
-asdf
 
-## Usage:
-asdf
+## Installation
 
-## Credits:
-asdf
 
-## License:
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Questions
 
-## Badges:
-![alt text](https://img.shields.io/badge/Script-JS-brightgreen)
-
-## Questions:
-https://github.com/pmahalan/node_readme
+# Github
+pmahalan
+# Email
 asdf@aol.com
+
+
+## Usage
+asdf
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+asd
+
+## Testing
+
+asdf
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+    
+    
