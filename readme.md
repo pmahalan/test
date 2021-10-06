@@ -1,5 +1,5 @@
 # asd
-      [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)]
+      ![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
 
       ## Description
       asdf
