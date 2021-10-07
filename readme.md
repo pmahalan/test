@@ -1,45 +1,26 @@
+# asd
 
-# asdf
+## Description
+fasd
 
-### Description
-asd
-
-
-## Table of contents
-* [Description](#description)
-* [Questions](#questions)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contribution](#contributing)
-* [Testing(#testing) 
-
+## Table of Contents
+fas
 
 ## Installation
-
-
-## Questions
-
-# Github
-pmahalan
-# Email
-ASDF@aol.com
-
+dfasd
 
 ## Usage
-asd
+fadsf
 
+##  Liscencing 
+ This is licensed under the following terms https://opensource.org/licenses/MIT 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+## Contributors
 asdf
 
-## Testing
-
+## Tests
 asdf
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-    
-    
+## Questions
+asdf
