@@ -1,48 +1,45 @@
-# asd
-      ![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
 
-      ## Description
-      asdf
+# asdf
 
-      ## Table of Contents
-    -[Description](#description)
-    -[Installation](#installation)
-    -[Usage](#usage)
-    -[Credits](#credits)
-    -[License](#license)
-    -[Badges](#badges) 
-    -[Contributing](#contributing)
-    -[Tests](#tests)
-    -[Questions](#questions)
+### Description
+asd
 
-    ## Installation
-    asdf
 
-    ## Usage
-    asdf
+## Table of contents
+* [Description](#description)
+* [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contributing)
+* [Testing(#testing) 
+
+
+## Installation
+
+
+## Questions
+
+# Github
+pmahalan
+# Email
+ASDF@aol.com
+
+
+## Usage
+asd
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+asdf
+
+## Testing
+
+asdf
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
     
-    ## Credits
-    asdf
-
-    ### License
-    MIT License
-
-    ---
-
-    ## Badges
-    [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
-
-    ## Contributing 
-    asdf
-
-    ## Test
-    asdf
-
-    ## Questions
-
-    - GitHub
-    pmahalan
-    https://github.com/pmahalan
-  
-    - Email
-    asdf@aol.com
+    
