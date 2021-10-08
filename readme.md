@@ -1,55 +1,43 @@
- # node index 
-____
-  ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-   
-  ## asdf
-____  
-  ## Table of Contents
-____
-  [Installation](#installation)
+ # readme_gen
 
-  *[Usage](#usage)
-  
-  *[Test](#test)
+## Description
 
-  *[Contributions](#contributions)
+This application generates a README file for the user by asking a list of questions.
 
-  *[Contact](#contact)
+## Table of Contents
 
-  *[License](#license)
+- [Installation](#installation)
 
-  *[GitHub Nane](#githubname)
+- [Usage](#usage)
 
-  *[GitHubRepo](#githubrepo)
+- [License](#license)
 
-  *[Images](#images)
-____  
-  ## Installation
-  asd
+- [Contributing](#contributing)
 
-  ## Usage
-  fasdf
+- [Tests](#tests)
 
-  ## Test
-  asdf
+- [Questions](#questions)
 
-  ## Contributions
-  asdf
-    
-  ###  Contact
-  asdf
-    
-  ### License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  (https://opensource.org/licenses/MIT)
-  No
+## Installation
 
-   
-  ### GitHub Name
-  pmahalan
-  
-  ### GitHub Repo
-   asdf
+To install neessary dependencies, run the following command
+npm i 
 
-  ### Images  
-  asdf
+## Usage
+The user can use the repo without any specific knowledge.
+
+## License
+
+
+## Contributing
+No contribution is expected.
+
+## Tests
+
+To run tests, run the following command
+npm test
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at alt@yahoo.com. 
+You can find more of my work at (https://github.com/altugcakmakci)
