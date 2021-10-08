@@ -1,8 +1,9 @@
- # readme_gen
+# asdf
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ## Description
 
-This application generates a README file for the user by asking a list of questions.
+2asdf
 
 ## Table of Contents
 
@@ -21,19 +22,28 @@ This application generates a README file for the user by asking a list of questi
 ## Installation
 
 To install neessary dependencies, run the following command
-npm i 
+asdf 
 
 ## Usage
-The user can use the repo without any specific knowledge.
+asdf
 
 ## License
 
+This project is licensed under the MIT license.
+Please refer to https://opensource.org/licenses/MIT) for details.
 
 ## Contributing
-No contribution is expected.
+asdf
 
 ## Tests
 
+To run tests, run the following command
+asdf
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at asdf@aol.com. 
+You can find more of my work at (https://github.com/pmahalan)
 To run tests, run the following command
 npm test
 
