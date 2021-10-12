@@ -1,32 +1,59 @@
 # asdf
-  [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  ## Description
-  undefined
-  ## Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  ## Installation
-  To install necessary dependencies, please run the following command:
-  ' ' '
-  asdf
-  ' ' '
-  # Usage
-  asdf
-  ## License
-    This project is covered under the MIT license. Visit the following link for more information on this license: [MIT](https://opensource.org/licenses/MIT)
-  ## Contributing
-  undefined
   
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+  ## Here's what this project is about:
+  
+  asdf
+
+  ## Table of Contents
+    
+  * [Installation](#installation)
+
+  * [Usage](#usage)
+  [License](https://opensource.org/licenses/MIT)
+  * [Contributing](#contributing)
+
+  * [Test](#test)
+
+  * [Questions](#questions)
+
+  * [Github](#github)
+
+  ## Installation
+
+  Commands you'll need to get your app started:
+  
+  asd
+
+  ## Usage
+  
+  asdf
+
+  ## License
+    
+    This application is covered by MIT license.
+
+  ## Contributing
+  
+  asdf
+
   ## Tests
-  To test, please run the following command;
-  ' ' '
+
+  A great way to test your application, run this command:
+  
+  '''
+  asdf
+  '''
+
   ## Questions
-  For any questions about the project, please contact me by either of the following links:
-  * Email = asdf@aol.com
-  or visit my GitHub profile:
-  * GitHub - [pmahalan](https://github.com/pmahalan)
+
+  If you have any further questions you may reach me here:
+  
+  asdf@aol.com
+  
+  ## GitHub
+
+  You can find more of my work here.
+  
+  pmahalan
