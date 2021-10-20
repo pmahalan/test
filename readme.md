@@ -1,25 +1,45 @@
 
-# node index
-## License
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# asdf
+  -----------------
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Table of Contents
-* [Description](#Description)
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Contribution](#Contribution)
-* [Testing](#Testing)
-* [Notes](#Notes)
+  - [Description](#Description)
+  - [Installation Instructions](#Installation)
+  - [Built With](#Built)
+  - [Usage Guidelines](#Usage)
+  - [Contribution Guidelines](#Contribution)
+  - [Testing Information](#Testing)
+  - [Questions](#Questions)
+
 ## Description
 asdf
-## Installation
-``` 
-npm i asdf
-```
-## Usage 
-[asdf](asdf)
-## Contribution
+
+[Click this link to see asdf in action](https://pmahalan.github.io/asdf/)
+ <br />
+
+**Demo of asdf in action!**
+
+![Demo of asdf in action](./images/asdf-demo.gif)
+
+## Installation Instructions
 asdf
-## Testing
+
+## Built With
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## Usage Guidelines
 asdf
-## Notes
-If you have any questions or concerns, feel free to reach out to me at asdf@aol.com. You can also reach out to me @pmahalan on github.
+
+## Contributing Guidelines
+asdf
+
+## Testing Information 
+asdf
+
+
+## Questions
+Encountering any problems? You can contact me at:
+[My GitHub Page](https://github.com/pmahalan)
+[My Email](mailto:asdf@aol.com)
