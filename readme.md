@@ -1,61 +1,34 @@
-# asdf [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# asd 
 
-## Description 
-    
-asdf
+fasdf
 
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Features](#features)
-* [Tests](#tests)
-* [Contacts](#questions)
-    
+![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
+     
+## Table of Contents:
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [License](#license)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [Questions](#questions)
+
 ## Installation
-    
-1. asdf
-
-2. asdf
-
-3. asdf
-    
-## Usage 
-    
 asdf
-    
-## Credits
-* asdf, [Github](asdf)
-* asdf, [Github](pmahalan)
-* asdf, [Github]()
+
+## Usage
+asdf
 
 ## License
-    
-This project is licensed by MIT.
-    
-## Features
+MIT License
 
-### asdf 
+## Contributing
 asdf
 
- 
-
- 
-
- 
-    
 ## Tests
-    
-### Test 1
 asdf
-
- 
-
- 
 
 ## Questions
+GitHub: [pmahalan](https://github.com/pmahalan)
 
-You can reach me (asdf) at:
-Email: [Link](asdf@aol.com)
-Github: [Link](https://github.com/pmahalan)
+Additional questions? Email me at asdf@aol.com
+   
