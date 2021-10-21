@@ -1,34 +1,28 @@
-# asd 
 
-fasdf
-
-![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
-     
-## Table of Contents:
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [License](#license)
-4. [Contributing](#contributing)
-5. [Tests](#tests)
-6. [Questions](#questions)
-
+# Project Title : asdf
+## Project Description:
+asd
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Test](#test)
+* [Questions](#questions)
+* [License](#license)
+* [Author] (#Author)
+* [Badges](#badges)
 ## Installation
 asdf
-
 ## Usage
 asdf
-
-## License
-MIT License
-
-## Contributing
+## Contributors
+asd
+## Test
 asdf
-
-## Tests
-asdf
-
 ## Questions
-GitHub: [pmahalan](https://github.com/pmahalan)
-
-Additional questions? Email me at asdf@aol.com
-   
+If you have any questions, contact pmahalan on GitHub.
+## License
+## Author 
+![GitHub profile pic](https://avatars.githubusercontent.com/u/56903807?v=4)
+## Badges
+![badmath](https://img.shields.io/github/repo-size/pmahalan/asdf)
