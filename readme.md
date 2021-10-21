@@ -1,24 +1,26 @@
 # asdf
-  ----
-  <a href="https://img.shields.io/badge/License-MIT-brightgreen"><img src="https://img.shields.io/badge/License-MIT-brightgreen"></a>
-  ## Table of Contents
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Test Instructions](#test-instructions)
-  - [Contact Information](#contact-information)
-  ### Description
-  asdf
-  ### Installation
-  undefined
-  ### Usage
-  asdf
-  ### Contribution
-  asdf
-  ### Test-Instructions
-  asdf
-  ### Contact-Information
-  [Github Profile](https://github.com/pmahalan)
-  asdf@aol.com
   
+  ## Table of Contents
+  * [1. Description](#-1-description)
+  * [2. installation](#-2-installation)
+  * [3. Usage](#-3-usage)
+  * [4. License](#-4-license)
+  * [5. Contributors](#-5-contributors)
+  * [6. Tests](#-6-tests)
+  * [7. Questions](#-7-questions)
+  ### 1. Description 
+  asdf
+  ### 2. Installation
+  asdf
+  ### 3. Usage 
+  asdf
+  ### 4. License
+    Info: 
+  ### 5. Contributors 
+  asdf
+  ### 6. Tests
+  asdf
+  ### 7. Questions
+  Contact me at the following links:
+  https://github.com/pmahalan
+  asdf@aol.com
