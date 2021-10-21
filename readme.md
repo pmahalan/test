@@ -1,28 +1,24 @@
 
-# Project Title : asdf
-## Project Description:
-asd
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Test](#test)
-* [Questions](#questions)
-* [License](#license)
-* [Author] (#Author)
-* [Badges](#badges)
-## Installation
+
+#  asdf
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+##  asdf
+### Table of contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [License](#license)
+### Installation
 asdf
-## Usage
+### Usage
 asdf
-## Contributors
-asd
-## Test
-asdf
-## Questions
-If you have any questions, contact pmahalan on GitHub.
 ## License
-## Author 
-![GitHub profile pic](https://avatars.githubusercontent.com/u/56903807?v=4)
-## Badges
-![badmath](https://img.shields.io/github/repo-size/pmahalan/asdf)
+This repository is covered by the MIT License  <br> 
+https://opensource.org/licenses/MIT
+#### Contributors
+asdf
+#### Test Instructions
+asdf
+##### Questions
+If you have any questions please feel free to contact me at pmahalan@stetson.edu <br>
+GitHub: pmahalan 
