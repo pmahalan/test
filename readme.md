@@ -1,33 +1,61 @@
-#  asdf
+![Mark Watson](../banners/PNG_orange-geometric.png)
+# asdf
 
-  ##  asdf
+[![Licence attached to repository](https://img.shields.io/github/license/pmahalan/asdf?style=plastic)](LICENSE.md)
+![GitHub top language](https://img.shields.io/github/languages/top/pmahalan/asdf?style=plastic&logo=github)  ![GitHub language count](https://img.shields.io/github/languages/count/pmahalan/asdf?style=plastic&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/pmahalan/asdf?style=plastic&logo=github)  ![GitHub commits in last month on main branch](https://img.shields.io/github/commit-activity/m/pmahalan/asdf?style=plastic&logo=github)
 
-  ### Table of contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributors](#contributors)
-  - [License](#license)
+### Table of Contents
+  1. [Project Description](#1-description)
+  2. [Installation](#2-installation)
+  3. [Usage](#3-usage)
+  4. [Credits](#4-credits)
+  5. [License](#5-license)
+  6. [How to contribute](#6-how-to-contribute)
+  7. [Tests](#7-tests)
+  8. [Questions](#8-how-to-contact-me)
 
+---
+### 1. Description 
+asdf
+  
+---
+### 2. Installation
+The steps required to install the project and how to get the development environment running:
+* asdf
 
-  ### Installation
-  asdf
+---
+### 3. Usage 
+asdf
 
-  ### Usage
-  asdf
+---
+### 4. Credits 
+asdf
 
-  ### License
-  MIT License
-  This repository is covered under the MIT License
+---
+### 5. License
+This project is licensed under the terms of the:  
+* Mozilla Public License 2.0
 
-  ### Badges 
-  ![MIT License](https://img.shields.io/apm/l/PACK?style=plastic)
+---
+### 6. How to Contribute
 
-  ### Contributors
-  asdf
+Contributions to this project are currently not allowed.
 
-  ### Test Instructions
-  asdf
+---
+### 7. Tests 
+asdf
 
-  ### Questions
-  If you have any questions please feel free to contact me at @ asdf@aol.com .
+---
+### 8. How to Contact Me 
+I hope you enjoy the application.  If you have any questions or would like to connect, please do so by email:
 
+asdf@aol.com
+
+or follow me at my GitHub:
+
+[pmahalan's GitHub](https://github.com/pmahalan)
+
+---
+
+- [Back to the top](#asdf)
