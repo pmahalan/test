@@ -1,46 +1,31 @@
-# asdf ![Github Badge](https://img.shields.io/badge/license-MIT-blueviolet)
 
-  ## Description
+  ## asdf:
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+  ## Description:
   asdf
 
-  ## Table Of Contents
 
-  * [Installation](#installation)
-
-  * [Usage](#usage)
-
-  * [License](#license)
-
-  * [Contributing](#contributing)
-
-  * [Test](#test)
-
-  * [Questions](#questions)
-
-  ## Installation
-
+  ## Installation:
   asdf
 
-  ## Usage
 
+  ## Usage:
   asdf
 
-  ## License
+  ## Contribution:
+  asdf
+
+  ## Testing:
+  asdf
+
+  ## License:
+  MIT
+  https://opensource.org/licenses/MIT
+
+  ## Questions:
+  https://github.com/pmahalan/pmahalan.github.io
   
-  This project has a MIT license.
+  asdf@aol.com
 
-  ## Contributing
-
-  undefined
-
-  ## Test
-
-  asdf
-
-  ## Questions
-
-  [pmahalan](https://github.com/pmahalan)
-
-If you have questions, please contact me at: asdf@aol.com
 
