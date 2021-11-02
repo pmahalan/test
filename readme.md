@@ -17,13 +17,13 @@
   asdf
 
   ## Usage
-  asdf
+  asd
 
   ## License
-  MIT
+  ISC
   Copyright (c) [2021]
-  ![MIT](/assets/mit.svg
-  https://choosealicense.com/licenses/mit
+  ![ISC](/assets/isc.svg)
+  https://choosealicense.com/licenses/isc
 
   ## Credits
   asdf
@@ -35,7 +35,7 @@
   asdf@aol.com
 
   ## Github
-  asdf
+  pmahalan
 
   ## How to Contribute
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
