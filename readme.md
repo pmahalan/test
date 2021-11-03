@@ -1,7 +1,7 @@
 # asdf
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-  asdfasd
+  asdf
 
   asdf
 
@@ -19,29 +19,21 @@ asdf
   GitHub username: pmahalan
   
 
-  priya mahalnobis
+  boob Boob
 
 
   - [GitHub Link](pmahalan)
-  - [Portfolio](asdf)
-  - [LinkedIn](asdf)
+  
+  
 
   
   
-### Contributors
-
-as
-
 
   
-### Tests
-
-asdf
-
 ## License
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
-   Copyright asdf priya mahalnobis
+   Copyright 2021 boob Boob
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
