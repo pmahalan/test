@@ -1,27 +1,47 @@
-# asd
+# asdf
+  ![license](https://img.shields.io/badge/License-MIT-yellow))
+
 ## Description
-fa
--sdf
--asdf
--asd
--asd
-## Table of Contents 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [How to Contribute](#how-to-contribute)
-- [Tests](#tests)
+  asdf
+
+## Table of Contents
+  - [Description](#description)
+  - [Authors](#authors)
+  - [Preview](#preview)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Test](#test)
+  - [Contribution](#contribution)
+  - [License](#license)
+  - [Bugs](#bugs)
+
+## Authors
+  - asdf
+  - [GitHub Profile](https://github.com/pmahalan)
+
+## Preview
+![Preview](asdf)
+
+## Features
+  asdf
+
 ## Installation
-fsd
+  asdf
+
 ## Usage
-fasd
+  asdf
+
+## Test
+  asdf
+
+## Contribute
+  asdf
+  For additional question feel free to reach out at: asdf@aol.com
+
 ## License
-MIT License
-## How to Contribute
-asdf
-## Tests
-asdf
-## Questions
-pmahalan
-asdf@aol.com
+  This project licensed under the MIT License.
+
+### Bugs
+  asdf
+  
