@@ -1,47 +1,32 @@
-# asdf
-  ![license](https://img.shields.io/badge/License-MIT-yellow))
+# asd ![](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Description
-  asdf
+## Description 
+    fasdf
+    
+## Table of Contents 
+- [Installation](#installation)
+- [Usage Instructions](#usage-instructions) 
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)    
+   
+    
+## Installation 
+    asdf
+    
 
-## Table of Contents
-  - [Description](#description)
-  - [Authors](#authors)
-  - [Preview](#preview)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Test](#test)
-  - [Contribution](#contribution)
-  - [License](#license)
-  - [Bugs](#bugs)
-
-## Authors
-  - asdf
-  - [GitHub Profile](https://github.com/pmahalan)
-
-## Preview
-![Preview](asdf)
-
-## Features
-  asdf
-
-## Installation
-  asdf
-
-## Usage
-  asdf
-
-## Test
-  asdf
-
-## Contribute
-  asdf
-  For additional question feel free to reach out at: asdf@aol.com
-
-## License
-  This project licensed under the MIT License.
-
-### Bugs
-  asdf
-  
+## Usage Instructions
+    asdf
+    
+## Licence 
+    This project is covered under the MIT. More information about this license can be found at https://opensource.org/licenses/MIT
+    
+## Contributing 
+    asdf
+    
+## Tests
+    asdf
+    
+## Questions
+- [pmahalan](https://github.com/pmahalan)
+- asdf@aol.com
