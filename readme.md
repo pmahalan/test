@@ -1,5 +1,5 @@
-# asdf
-  ![Github badge](https://img.shields.io/badge/license-MIT icense-blue)
+ # asdf
+  ![Github badge](https://img.shields.io/badge/license-Apache license-blue)
 
 ## DESCRIPTION
 asdf
@@ -16,11 +16,11 @@ asdf
 asdf
 
 ## Usage
-asdf
+adsf
 
 ## License
 
-  This project is covered under the MIT icense license.
+  This project is covered under the Apache license license.
   
 
 ## Contribution
@@ -34,6 +34,5 @@ asdf
 
 to reach me for any questions contact me at my:
 
-Github: [pmahalan](https://github.com/pmahalan)
-E-mail:asdf@aol.com
-
+Github: [asd](https://github.com/asd)
+E-mail:asd
