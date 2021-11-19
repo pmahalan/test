@@ -1,39 +1,33 @@
 # asdf
-
-  # Table of Contents
-  License,Installation,Usage,Test,Contribute,Contributors,Questions,Links
-  - [Description](#description)
-  - [Install](#installation)
-  - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)(#license)
-  - [Questions](#questions)
-  - [Links](#links)
-
-  # Description
+  ### asdf
+  
+  ## Table of Contents
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [License](#license)
+  4. [Contributing](#contributing)
+  5. [Tests](#tests)
+  6. [Questions](#questions)
+  
+  ## Installation
   asdf
-
-  # Installation
+  
+  ## Usage
   asdf
+  
+  ## License
+  License for open source use: MIT 
+          For more information, visit: https://opensource.org/licenses/MIT        
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  # Usage
-  MIT License
-
-  # Contribution
+  ## Contributing  
   asdf
-  pmahalan
-
-  # Tests
+  
+  ## Tests
   asdf
-
-  # License
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-  # Questions
-  github.com/pmahalan
-  asdf@aol.com
-
-  # Links to Deployed Site
-  asdf
-
+  
+  ## Questions
+  For any more questions, contact at: 
+  Email: asdf@aol.com
+  Github: pmahalan
