@@ -1,71 +1,34 @@
 # asdf
 
-![Badge for GitHub repo top language](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+## Project Description 
+asd
 
-Check out the badges hosted by [shields.io](https://shields.io/)
+# Table of Contents 
+1. [Installation Information](#installation-information)
+2. [Usage](#usage)
+3. [Contributors](#contributors)
+4. [Tests](#tests)
+5. [Questions](#questions)
+6. [Licensing](#licensing)
 
-## Description 
-
-
-asdf
-
-## Table of Contents
-
- * [Installation](#installation)
- * [Usage](#usage)
- * [License](#license)
- * [Contributing](#contributing)
- * [Tests](#tests)  
- * [Questions](#questions)
-
-
-## Installation
-
-*Steps required to install project and how to get the development environment running:*
-
-asdf
-
-
-
+## Installation Information
+Install the npm registry using "npm install" in the console and then install any desired packages by typing "[package name] install" <br /> 
+fasdf 
 
 ## Usage 
-
-*Instructions and examples for use:*
-
 asdf
 
-
-
-
-## Contributing
-
-*If you would like to contribute it, you can follow these guidelines for how to do so.*
-
+## Contributors 
 asdf
 
-
-
-
-## Tests
-
-*Tests for application and how to run them:*
-
+## Tests 
 asdf
 
-![README File](assets/screenshot.png)
-
-[Demo Video!](assets/Demo.mp4)
-
-
-## License
-
-MIT License
-
-
-
-## Questions
-
-*If you have any questions you can reach me at my Github: https://github.com/pmahalan or Email: asdf@aol.com.
-
-*You can always reach me by messaging me on github or email.
-
+## Questions 
+Please refer to my GitHub for other repositories and associated source code. Please send any questions concerning my projects to the email listed below. <br />
+Github account: https://github.com/pmahalan <br /> 
+Send me an email at: asdf@aol.com
+    
+## Licensing 
+This application is covered by the Apache 2.0 License license.
