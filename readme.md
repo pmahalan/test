@@ -1,34 +1,43 @@
-# asdf
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-## Project Description 
-asd
+<h1 align="center">asdf 👋</h1>
+  
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
-# Table of Contents 
-1. [Installation Information](#installation-information)
-2. [Usage](#usage)
-3. [Contributors](#contributors)
-4. [Tests](#tests)
-5. [Questions](#questions)
-6. [Licensing](#licensing)
+## Description
+🔍 asdf
 
-## Installation Information
-Install the npm registry using "npm install" in the console and then install any desired packages by typing "[package name] install" <br /> 
-fasdf 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-## Usage 
-asdf
+## Installation
+💾 asdf
 
-## Contributors 
-asdf
+## Usage
+💻 asdf
 
-## Tests 
-asdf
+## License
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license. 
 
-## Questions 
-Please refer to my GitHub for other repositories and associated source code. Please send any questions concerning my projects to the email listed below. <br />
-Github account: https://github.com/pmahalan <br /> 
-Send me an email at: asdf@aol.com
+## Contributing
+👪 asdf
+
+## Tests
+✏️ asdf
+
+## Questions
+✋ asdf<br />
+<br />
+:octocat: Find me on GitHub: [pmahalan](https://github.com/pmahalan)<br />
+<br />
+✉️ Email me with any questions: asdf@aol.com<br /><br />
+
+_This README was generated with by [readme-generator]
     
-## Licensing 
-This application is covered by the Apache 2.0 License license.
