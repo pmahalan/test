@@ -1,43 +1,25 @@
 
-<h1 align="center">asdf 👋</h1>
-  
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
-
-## Description
-🔍 asdf
-
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-
-## Installation
-💾 asdf
-
-## Usage
-💻 asdf
-
-## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-<br />
-This application is covered by the MIT license. 
-
-## Contributing
-👪 asdf
-
-## Tests
-✏️ asdf
-
-## Questions
-✋ asdf<br />
-<br />
-:octocat: Find me on GitHub: [pmahalan](https://github.com/pmahalan)<br />
-<br />
-✉️ Email me with any questions: asdf@aol.com<br /><br />
-
-_This README was generated with by [readme-generator]
-    
+# asdf
+https://github.com/pmahalan
+# Description
+asdf
+# Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+# Installation
+The following nescessary dependencies must be installed to run the application
+# Usage
+In order to use this app, asdf
+# License
+This project is licensed under the MIT license. 
+![Github license](https://img.shields.io/badge/License-IPL_1.0-blue.svg)
+# Contributing
+Contributor: asdf
+# Tests
+The following is needed to run the test: asdf
+# Questions
+If you have any Questions about the report,open an issue or contact asdf
