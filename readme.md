@@ -1,38 +1,20 @@
 # asdf
+## Description
+asdf
+    
+## Preview
+![Webpage preview](asdf)
+    
+## License
+The MIT License
 
-  #Table of Contents
-  -[Description](#Description)
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[Licenses](#Licenses)
-  -[Contribution](#Contribution)
-  -[Guidelines](#Guidelines)
-  -[Testing](#Testing)
-  -[Username](#Username)
-  -[Email](#Email)
+## Link to GithubPages
+* Github Username : pmahalan
+* Here is the link to Github : [Github/User]undefined
+    
+## Link to Webpages
+* Here is the link to Webpage : [GWebpage/User]undefined
 
-  ##Description
-  asdf
+##
+* Email Address : asdf@aol.com
 
-  ##Installation
-  asdf
-
-  ##Usage
-  asdf
-
-  ##Licenses
-  undefined
-
-  ##Contribution
-  asdf
-
-  ##Testing
-  asdf
-
-  ##Username
-  pmahalan
-
-  ##Email
-  asdf@aol.com
-
-  
